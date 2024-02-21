@@ -1,0 +1,7 @@
+langchain
+openai
+python-dotenv
+pypdf2
+python-docx
+streamlit
+docx
